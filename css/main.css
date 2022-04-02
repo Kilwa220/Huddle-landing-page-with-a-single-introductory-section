@@ -207,7 +207,7 @@ main .text-content .social {
     position: absolute;
     bottom: 0;
     right: 50px;
-    right: 0;
+    right: 10px;
   }
 }
 
