@@ -30,7 +30,7 @@ Your users should be able to:
 
 ### Links
 
-- Live Site URL: [Demo](https://kilwa220.github.io/Single-price-grid-component/)
+- Live Site URL: [Demo](https://kilwa220.github.io/Huddle-landing-page-with-a-single-introductory-section/)
 
 ## My process
 
